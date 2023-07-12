@@ -16,7 +16,7 @@
     "scroll-horizontal": "^1.0.8",
     "tailwind-scrollbar-hide": "^1.1.7",
     "typewriter": "^8.1.0",
-    "typewriter-effect": "^2.19.0",
+    "typewriter-effect": "^2.20.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
